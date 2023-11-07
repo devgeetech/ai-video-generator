@@ -1,20 +1,12 @@
 ### Documentary on Penguins
 
-<video width="320" height="240" controls>
-  <source src="./penguins.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/devgeetech/ai-video-generator/assets/48852231/510a1142-9d95-4dc7-80b0-b5a3cabf66a6
 
 ### Informational Video on Mars
 
-<video width="320" height="240" controls>
-  <source src="./mars_atmosphere.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/devgeetech/ai-video-generator/assets/48852231/7da7ed8a-fb62-4076-9d3f-110facd3a303
 
 ### Documentary on African Wildlife
 
-<video width="320" height="240" controls>
-  <source src="./african_wildlife.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/devgeetech/ai-video-generator/assets/48852231/c3efac96-0c0e-46b4-8e33-07bcc75ee2ef
+
