@@ -6,6 +6,10 @@ https://github.com/devgeetech/ai-video-generator/assets/48852231/510a1142-9d95-4
 
 https://github.com/devgeetech/ai-video-generator/assets/48852231/7da7ed8a-fb62-4076-9d3f-110facd3a303
 
+## Intro to Marketing Course
+
+https://github.com/devgeetech/ai-video-generator/assets/48852231/560886b0-6481-4788-a729-d1d30e6a2fb7
+
 ### Documentary on African Wildlife
 
 https://github.com/devgeetech/ai-video-generator/assets/48852231/c3efac96-0c0e-46b4-8e33-07bcc75ee2ef
