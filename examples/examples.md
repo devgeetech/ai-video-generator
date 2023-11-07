@@ -2,6 +2,10 @@
 
 https://github.com/devgeetech/ai-video-generator/assets/48852231/510a1142-9d95-4dc7-80b0-b5a3cabf66a6
 
+### Photography Course
+
+https://github.com/devgeetech/ai-video-generator/assets/48852231/a7f39638-f771-4f05-8635-8b8c971da849
+
 ### Informational Video on Mars
 
 https://github.com/devgeetech/ai-video-generator/assets/48852231/7da7ed8a-fb62-4076-9d3f-110facd3a303
