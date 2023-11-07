@@ -4,8 +4,6 @@ from moviepy.editor import (
     AudioFileClip,
     concatenate_videoclips,
 )
-
-# import os
 from fastapi.responses import FileResponse
 
 
@@ -26,7 +24,6 @@ def get_final_video(data_list):
         audio_url = data["audioUrl"]
         image_url = data["imageUrl"]
 
-        # download audio from audio_url
         image_path = download_file(image_url, f"image_{counter}.png")
         audio_path = download_file(audio_url, f"audio_{counter}.wav")
 
@@ -34,15 +31,11 @@ def get_final_video(data_list):
 
         video_clip = ImageClip(image_path, duration=(int(audio_clip.duration) + 1))
 
-        # video_clip = video_clip.set_duration(audio_clip.duration)
-
         video_clip = video_clip.set_audio(audio_clip)
 
         video_clips.append(video_clip)
 
         counter += 1
-        # os.remove(audio_path)
-        # os.remove(image_path)
 
     final_video = concatenate_videoclips(video_clips)
 
