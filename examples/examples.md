@@ -1,6 +1,6 @@
 ### Documentary on Penguins
 
-https://github.com/devgeetech/ai-video-generator/assets/48852231/510a1142-9d95-4dc7-80b0-b5a3cabf66a6
+https://github.com/devgeetech/ai-video-generator/assets/48852231/da2088f2-aa0d-467b-9e58-076c7799929a
 
 ### Photography Course
 
@@ -8,7 +8,7 @@ https://github.com/devgeetech/ai-video-generator/assets/48852231/a7f39638-f771-4
 
 ### Informational Video on Mars
 
-https://github.com/devgeetech/ai-video-generator/assets/48852231/7da7ed8a-fb62-4076-9d3f-110facd3a303
+https://github.com/devgeetech/ai-video-generator/assets/48852231/3235774a-fe18-4722-933e-212b80ceee98
 
 ## Intro to Marketing Course
 
@@ -16,11 +16,11 @@ https://github.com/devgeetech/ai-video-generator/assets/48852231/560886b0-6481-4
 
 ### Documentary on African Wildlife
 
-https://github.com/devgeetech/ai-video-generator/assets/48852231/c3efac96-0c0e-46b4-8e33-07bcc75ee2ef
+https://github.com/devgeetech/ai-video-generator/assets/48852231/9e95b23d-683e-4b23-83af-0405cfb477cb
 
 ## Penguins Documentary HD
 
-https://github.com/devgeetech/ai-video-generator/assets/48852231/78f12902-f1fd-4e00-ace4-2cfa8e92aa11
+https://github.com/devgeetech/ai-video-generator/assets/48852231/ea58b830-19ba-4e0d-93da-b218616d691d
 
 
 
